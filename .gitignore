@@ -1,3 +1,10 @@
+# My files
+config.py
+ratings.csv
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
+movies-Copy1.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
